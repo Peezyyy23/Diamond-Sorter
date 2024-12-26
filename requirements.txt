@@ -1,3 +1,4 @@
+echo "\
 pyperclip
 requests
 bs4
@@ -61,4 +62,4 @@ loguru==0.7.2
 lxml==5.1.0
 stem==1.8.2
 tld==0.13
-pyperclip==1.8.2
+pyperclip==1.8.2" > requirements.txt
